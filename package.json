@@ -1,0 +1,25 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "Hoang Phuc Le",
+  "main": "Demo by Phuc Le",
+  "scripts": {
+    "test": "Phuc Le 2022"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Phuc Le 2022"
+  },
+  "keywords": [
+    "Demo",
+    "by",
+    "phuc",
+    "le"
+  ],
+  "author": "ok",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}
